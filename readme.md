@@ -1,5 +1,5 @@
 <h2>Projeto Pessoal</h2>
- <p>A intenção é testar a validação do formulário, se os dados inseridos atender aos critérios o usuário será direcionado para uma página específica(Pág de cusros)</p>
+ <p>A intenção é testar a validação do formulário, se os dados inseridos atender aos critérios, o usuário será direcionado para uma página específica(Pág de cursos)</p>
 
 <h3>Tecnologias utilizadas:</h3>
 <ul>
